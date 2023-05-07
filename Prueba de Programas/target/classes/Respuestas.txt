@@ -1,0 +1,19 @@
+Ejercicio 27:
+Explicar que es:
+1. Una prueba de caja blanca: Una prueba de caja blanca es un tipo de prueba de software que se realiza sobre las funciones internas de un módulo, es decir, está
+dirigido a las funciones internas y estructura de control del programa.
+
+2. Prueba de caja negra: En cambio una prueba de caja negra también es un tipo de prueba de software que se realiza pero sólo se analizan los requisitos funcionales
+sin tomar como referente la estructura del código, proporciona una interfaz de entrada y de salida.
+
+3. Prueba Unitaria: bloque de código escrito por un desarrollador con el fin de asegurar que un método específico de una clase realiza exitosamente el conjunto de tareas
+para la cual ha sido programada una clase.
+
+4. Prueba de integración: se usa para verificar que las pruebas unitarias funcionan correctamente en grupo. Se hace de forma incremental y nunca se usa la integración
+BIGBANG ya que podría provocar errores y no se podría encontrar la raíz del problema para cada fallo.
+
+5. Prueba de sistema: existen cuatro tipos de pruebas de sistema como las pruebas de recuperación, seguridad, resistencia y rendimiento. La idea es someter estos
+cuatro aspectos al límite para verificar su robustez.
+
+6. Prueba de aceptación: consiste en la aceptación del cliente --> existen las pruebas Alfa que son las pruebas a las cuales se somete el propio desarrollador y
+las pruebas Beta que son aquellas del cliente.
